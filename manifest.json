@@ -15,6 +15,41 @@
       "folder": "bgphoto",
       "fileName": "3.jpg",
       "url": "https://github.com/baklavaw/sh-backup/releases/download/1.0/3.jpg",
+    },
+    {
+      "folder": "bgv/Nature",
+      "fileName": "Video1.mp4",
+      "url": "https://github.com/baklavaw/sh-backup/releases/download/1.0/Video1.mp4",
+    },
+    {
+      "folder": "bgv/Nature",
+      "fileName": "Video2.mp4",
+      "url": "https://github.com/baklavaw/sh-backup/releases/download/1.0/Video2.mp4",
+    },
+    {
+      "folder": "bgv/Nature",
+      "fileName": "Video3.mp4",
+      "url": "https://github.com/baklavaw/sh-backup/releases/download/1.0/Video3.mp4",
+    },
+    {
+      "folder": "bgv/Nature",
+      "fileName": "Video4.mp4",
+      "url": "https://github.com/baklavaw/sh-backup/releases/download/1.0/Video4.mp4",
+    },
+    {
+      "folder": "idx",
+      "fileName": "shubidx",
+      "url": "https://github.com/baklavaw/sh-backup/releases/download/1.0/shubidx",
+    },
+    {
+      "folder": "idx",
+      "fileName": "shubblob",
+      "url": "https://github.com/baklavaw/sh-backup/releases/download/1.0/shubblob",
+    },
+    {
+      "folder": "sound",
+      "fileName": "soundfont.sf2",
+      "url": "https://github.com/baklavaw/sh-backup/releases/download/1.0/soundfont.sf2",
     }
   ]
 }
